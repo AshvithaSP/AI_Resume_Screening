@@ -175,22 +175,6 @@ The application provides
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```
-screenshots/homepage.png
-
-screenshots/candidate_mode.png
-
-screenshots/recruiter_dashboard.png
-```
-
----
-
 # 🎯 Applications
 
 - HR Recruitment
