@@ -11,6 +11,7 @@
 🌐 **Live Demo**
 
 🔗 https://smarthire--ai.streamlit.app
+A web-based AI-powered Resume Screening and Applicant Tracking System (ATS) developed using Python and Streamlit. The application intelligently analyzes resumes, extracts technical skills, evaluates candidate suitability, recommends job roles, identifies skill gaps, and ranks multiple candidates for recruiters through an interactive dashboard.
 
 ## 📌 Project Overview
 
