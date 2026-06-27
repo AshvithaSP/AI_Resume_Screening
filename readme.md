@@ -1,6 +1,6 @@
 # 🤖 SmartHire AI
 
-### AI-Powered Resume Screening, Career Guidance & ATS Ranking Platform
+### Intelligent Resume Screening & ATS Platform
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?logo=streamlit)
