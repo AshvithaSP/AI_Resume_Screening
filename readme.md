@@ -8,6 +8,9 @@
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
 ---
+🌐 **Live Demo**
+
+🔗 https://smarthire--ai.streamlit.app
 
 ## 📌 Project Overview
 
