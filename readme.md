@@ -11,6 +11,14 @@
 🌐 **Live Demo**
 
 🔗 https://smarthire--ai.streamlit.app
+## 📱 Mobile App Version
+A mobile interface for SmartHire AI was developed using FlutterFlow to improve accessibility on smartphones.
+
+### Mobile App Preview
+<img width="347" height="768" alt="image" src="https://github.com/user-attachments/assets/946509db-558a-4cd1-b235-46f5662895c9" />
+### FlutterFlow App
+🔗 https://app.flutterflow.io/preview/blank-slate-i6v3o8?page=BlankCanvas
+
 
 
 A web-based AI-powered Resume Screening and Applicant Tracking System (ATS) developed using Python and Streamlit. The application intelligently analyzes resumes, extracts technical skills, evaluates candidate suitability, recommends job roles, identifies skill gaps, and ranks multiple candidates for recruiters through an interactive dashboard.
