@@ -16,6 +16,8 @@ A mobile interface for SmartHire AI was developed using FlutterFlow to improve a
 
 ### Mobile App Preview
 <img width="347" height="768" alt="image" src="https://github.com/user-attachments/assets/946509db-558a-4cd1-b235-46f5662895c9" />
+
+
 ### FlutterFlow App
 🔗 https://app.flutterflow.io/preview/blank-slate-i6v3o8?page=BlankCanvas
 
